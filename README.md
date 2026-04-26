@@ -1,4 +1,4 @@
-# Project Title (Update)
+# Hello World
 
 Add a description of your project here.
 
@@ -6,13 +6,13 @@ Add a description of your project here.
 
 Steps to build and/or run the software:
 
-1. First step here
+1. type the print statement for Hello World
 2.
 3.
 
 Instructions for using the software:
 
-1. First step here
+1. Run the Hello World program page
 2.
 3.
 
@@ -20,7 +20,7 @@ Instructions for using the software:
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
+* None needed
 *
 *
 
@@ -29,13 +29,13 @@ To recreate the development environment, you need the following software and/or 
 I found these websites useful in developing this software:
 
 * [Website Title](Link)
-*
+*Stack overflow (look it up)
 *
 
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
+* [ ] Goodbye World
 * [ ]
 * [ ]
